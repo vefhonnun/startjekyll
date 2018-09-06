@@ -3,7 +3,7 @@ title: Start Jekyll
 email: gjg@tskoli.is
 description: >
   A guide to getting started with Jekyll.
-baseurl: ""
+baseurl: "/startjekyll"
 url: "http://localhost:4000"
 twitter_username: 
 github_username:  gjg
