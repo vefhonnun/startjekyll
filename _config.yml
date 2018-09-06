@@ -1,9 +1,9 @@
 # Site Settings
 title: Start Jekyll
-email: taniarascia@gmail.com
+email: gjg@tskoli.is
 description: >
   A guide to getting started with Jekyll.
-baseurl: "/"
+baseurl: "/startjekyll"
 url: "http://gjg.github.io"
 twitter_username: 
 github_username:  gjg
