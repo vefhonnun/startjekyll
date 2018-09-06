@@ -1,12 +1,12 @@
 # Site Settings
 title: Start Jekyll
-email: taniarascia@gmail.com
+email: gjg@tskoli.is
 description: >
   A guide to getting started with Jekyll.
 baseurl: ""
 url: "http://localhost:4000"
-twitter_username: taniarascia
-github_username:  taniarascia
+twitter_username: 
+github_username:  gjg
 # Build Settings
 sass:
   sass_dir: _sass
